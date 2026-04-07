@@ -19,20 +19,32 @@
     },
     {
         "id": 4,
-        "category": "university",
+        "category": "location",
         "english": "Where is the library?",
         "mandarin": ""
     },
     {
         "id": 5,
-        "category": "university",
-        "english": "When is the lecture?",
+        "category": "location",
+        "english": "Where is the lecture hall?",
         "mandarin": ""
     },
     {
         "id": 6,
-        "category": "university",
+        "category": "time",
         "english": "I have an assignment due tomorrow.",
+        "mandarin": ""
+    },
+    {
+        "id": 7,
+        "category": "time",
+        "english": "I had an exam yesterday.",
+        "mandarin": ""
+    },
+    {
+        "id": 8,
+        "category": "time",
+        "english": "I have coursework due in a week.",
         "mandarin": ""
     }
 ]
