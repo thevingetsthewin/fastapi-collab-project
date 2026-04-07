@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "category": "greeting",
+        "english": "Hello",
+        "mandarin": ""
+    },
+    {
+        "id": 2,
+        "category": "greeting",
+        "english": "Good morning",
+        "mandarin": ""
+    },
+    {
+        "id": 3,
+        "category": "greeting",
+        "english": "Good night",
+        "mandarin": ""
+    },
+    {
+        "id": 4,
+        "category": "university",
+        "english": "Where is the library?",
+        "mandarin": ""
+    },
+    {
+        "id": 5,
+        "category": "university",
+        "english": "When is the lecture?",
+        "mandarin": ""
+    },
+    {
+        "id": 6,
+        "category": "university",
+        "english": "I have an assignment due tomorrow.",
+        "mandarin": ""
+    }
+]
