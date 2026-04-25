@@ -3,7 +3,7 @@
         "id": 1,
         "category": "greeting",
         "english": "Hello",
-        "mandarin": ""
+        "mandarin": "你好"
     },
     {
         "id": 2,
@@ -15,36 +15,36 @@
         "id": 3,
         "category": "greeting",
         "english": "Good night",
-        "mandarin": ""
+        "mandarin": "晚上好"
     },
     {
         "id": 4,
         "category": "location",
         "english": "Where is the library?",
-        "mandarin": ""
+        "mandarin": "图书馆在哪里"
     },
     {
         "id": 5,
         "category": "location",
         "english": "Where is the lecture hall?",
-        "mandarin": ""
+        "mandarin": "讲堂在哪里"
     },
     {
         "id": 6,
         "category": "time",
         "english": "I have an assignment due tomorrow.",
-        "mandarin": ""
+        "mandarin": "我有一个作业明天截止"
     },
     {
         "id": 7,
         "category": "time",
         "english": "I had an exam yesterday.",
-        "mandarin": ""
+        "mandarin": "我昨天有个考试"
     },
     {
         "id": 8,
         "category": "time",
         "english": "I have coursework due in a week.",
-        "mandarin": ""
+        "mandarin": "我有一个作业这周截止"
     }
 ]
